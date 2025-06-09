@@ -42,4 +42,6 @@ Optimización del uso de recursos en zonas críticas
 
 Sustento cuantitativo para decisiones comerciales y sanitarias
 
+![Dashboard interactivo](pim4.png)
+
 
